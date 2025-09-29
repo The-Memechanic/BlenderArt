@@ -8,11 +8,11 @@ This contains gifs and videos of all the animations I ported into Blender
 
 ![Image1](Renders/Animations/Majima%20Pointing.gif)
 
-## NoBackground Folder
+## RegularBackground Folder
 
-This contains all the renders that were made with a simple color background
+This contains all the renders that were made with a simple colorful background
 
-![Image2](Renders/NoBackground/Kyle.png)
+![Image2](Renders/RegularBackground/Hacivat.png)
 
 These renders were made with the purpose of testing out my posing and lighting skills, so I didn't bother with a background.
 
